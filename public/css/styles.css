@@ -1,0 +1,8 @@
+body {
+  padding: 10px 20px;
+}
+
+#textField {
+  min-width: 300px;
+  font-size: 24px;
+}
