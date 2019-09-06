@@ -24,7 +24,7 @@ open http://localhost:8080/
 
 
 ## Environment
-* Client address `ws://localhost:8080/` (HTTP)
+* Client address `http://localhost:8080/` (HTTP)
 * Server `ws://localhost:8081/` (WebSockets)
 
 
